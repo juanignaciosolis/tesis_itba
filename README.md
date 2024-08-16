@@ -1,2 +1,2 @@
-# tesis_itba
-In this repo you will find data about my Data Science Magister thesis
+# Data Science Magister Thesis
+In this repo you will find code and data about my Data Science Magister thesis
